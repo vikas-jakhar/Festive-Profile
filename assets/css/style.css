@@ -51,7 +51,18 @@
 .pstn-rel {
     position: relative;
 }
-
+.pd-top-50{
+    padding-top: 50px;
+}
+.pd-bottom-50{
+    padding-bottom: 50px;
+}
+.mr-top-30{
+    margin-top: 30px;
+}
+.pd-top-30{
+    padding-top: 30px;
+}
 .shadow {
     box-shadow: 0px 8px 35px 0px #0000000D;
     background: white;
